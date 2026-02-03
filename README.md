@@ -2,7 +2,7 @@
 
 ### Conecte-se comigo:
 <div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-monteiro-401a9b317/" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-pedro-monteiro-401a9b317/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
@@ -58,8 +58,14 @@
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoMont-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMont-code&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### ✨ O que estou desenvolvendo:
+
+Estou constantemente aprendendo e aplicando novas tecnologias em projetos pessoais. No momento, meu foco é aprimorar habilidades em:
+
+* **Projetos Full Stack** com **Next.js** e **NestJS**.
+* Exploração de soluções em **Cloud (GCP)**.
+* Aprofundamento em **Arquitetura de Software**.
+
+Fique à vontade para explorar meus repositórios e ver alguns exemplos do meu trabalho\!
+
+---
