@@ -11,7 +11,7 @@
 
 ### 👨‍💻 Sobre Mim
 * 🎓 Graduando em **Ciência da Computação** pela **Universidade Presbiteriana Mackenzie**.
-* 💡 Focado em **Desenvolvimento Full Stack** e **Engenharia de Software**.
+* 💡 Focado em **Desenvolvimento Full Stack** e **Engenharia de Dados**.
 * 🗣️ **Idiomas:** Inglês (Avançado) e Alemão (Intermediário).
 * 📜 **Certificações Udemy:** Full Stack JS/TS (NestJS, React, Next.js) e Modelagem de Banco de Dados.
 
